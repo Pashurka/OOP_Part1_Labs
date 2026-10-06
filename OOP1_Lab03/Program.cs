@@ -1,5 +1,5 @@
 ﻿using System; // для доступу до бібліотеки Math
-              // клас Circle - містить поля, властивості та перевантажені методи CalcSumm
+// клас Circle - містить поля, властивості та перевантажені методи CalcSumm
 class Circle
 {
     // Приховані поля класу
@@ -64,13 +64,12 @@ class Circle
         return 2 * Math.PI * Radius * Radius;
     }
 }
-
 class Program
 {
     static void Main(string[] args)
     {
 
-        // /створюємо об'єкт класу Cicrcle
+        // створюємо об'єкт класу Cicrcle
         Circle myCircle = new Circle();
 
         // виклик базового методу CalcArea()
