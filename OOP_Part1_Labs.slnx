@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="OOP1_Lab01/OOP1_Lab01.csproj" Id="706b13b0-df15-46d2-bafe-9384935db851" />
+  <Project Path="OOP1_Lab02/OOP1_Lab02.csproj" Id="af594d74-e91f-4ce9-adf6-c5381919fc44" />
+  <Project Path="OOP1_Lab03/OOP1_Lab03.csproj" Id="bb0301f9-606f-43a9-8a48-140da2397e71" />
+  <Project Path="OOP1_Lab04/OOP1_Lab05.csproj" Id="5e406e64-eef8-480e-b327-c40d8160e36d" />
+  <Project Path="OOP1_Lab06/OOP1_Lab06.csproj" Id="e46b90ce-d31c-4171-9b6e-51648693e269" />
+  <Project Path="OOP1_Lab07/OOP1_Lab07.csproj" Id="eafe11b9-1b3b-46de-b218-b0748ee32fdb" />
+  <Project Path="OOP1_Lab08/OOP1_Lab08.csproj" Id="2d66fe3b-333a-4edb-bf13-78284396dd99" />
+  <Project Path="OOP1_Lab09/OOP1_Lab09.csproj" Id="109e2757-5209-4134-a693-1becb0602cff" />
+  <Project Path="OOP1_Lab10/OOP1_Lab10.csproj" Id="7522bacb-99ff-4e5b-9bad-5596fde4ee77" />
+  <Project Path="OOP1_Lab11/OOP1_Lab11.csproj" Id="dc337556-e24f-40cd-a0ba-10f64e17c4ac" />
+  <Project Path="OOP1_Lab14/OOP1_Lab14.csproj" Id="bdf06fd5-07df-4203-aa98-c7ffc9593f48" />
+  <Project Path="OOP1_Lab15/OOP1_Lab15.csproj" Id="11e01180-d419-4a1e-abf1-550d0684af53" />
+</Solution>
