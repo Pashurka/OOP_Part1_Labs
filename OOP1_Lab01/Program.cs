@@ -1,6 +1,6 @@
 ﻿
 /*
-* Copyright (c) 2025. Username
+* Copyright (c) 2025. Username Pavlo Chykunov
 */
 /*
 * Це спеціальний коментар для документування (Doc comment).
